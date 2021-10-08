@@ -2,7 +2,7 @@
 eip: to be assigned
 title: The FIP title is a few words, not a complete sentence
 description: Description is one full (short) sentence
-author: a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)
+author: XXXX
 discussions-to: URL
 created: date created on, in ISO 8601 (yyyy-mm-dd) forma
 ---
