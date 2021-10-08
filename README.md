@@ -15,7 +15,7 @@ FIPs should be written in markdown format.
 In the initial stage, only markdown display mode was retained. When the number of proposals increases, Jekyll will be used to display FIPs. At the same time, it is also hoped that community members will actively participate in the management of Issues.
 
 ## FIPS example
-'''
+```
 ---
 eip: <to be assigned>
 title: <The EIP title is a few words, not a complete sentence>
@@ -62,7 +62,7 @@ All EIPs must contain a section that discusses the security implications/conside
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-'''
+```
 
 
 
