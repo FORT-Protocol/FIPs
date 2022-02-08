@@ -4,7 +4,7 @@ title: The FIP title is a few words, not a complete sentence
 description: Description is one full (short) sentence
 author: XXXX
 discussions-to: URL
-created: date created on, in ISO 8601 (yyyy-mm-dd) forma
+created: date created on, in ISO 8601 (yyyy-mm-dd) format
 ---
 
 This is the suggested template for new FIPs.
