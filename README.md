@@ -17,7 +17,7 @@ In the initial stage, only markdown display mode was retained. When the number o
 ## FIPS example
 ```
 ---
-eip: <to be assigned>
+fip: <to be assigned>
 title: <The FIP title is a few words, not a complete sentence>
 description: <Description is one full (short) sentence>
 author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
@@ -43,7 +43,7 @@ The rationale fleshes out the specification by describing what motivated the des
 All FIPs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The FIP must explain how the author proposes to deal with these incompatibilities. FIP submissions without a sufficient backwards compatibility treatise may be rejected outright.
 
 ## Test Cases
-Test cases for an implementation are mandatory for FIPs that are affecting consensus changes.  If the test suite is too large to reasonably be included inline, then consider adding it as one or more files in `../assets/eip-####/`.
+Test cases for an implementation are mandatory for FIPs that are affecting consensus changes.  If the test suite is too large to reasonably be included inline, then consider adding it as one or more files in `../assets/fip-####/`.
 
 ## Reference Implementation
 An optional section that contains a reference/example implementation that people can use to assist in understanding or implementing this specification.  If the implementation is too large to reasonably be included inline, then consider adding it as one or more files in `../assets/fip-####/`.
